@@ -4,7 +4,6 @@ import ImagenCripto from './img/imagen-criptos.png'
 import Formulario from './components/Formulario';
 
 
-
 function App() {
   
   return (
